@@ -22,7 +22,7 @@
       <SizeBasedTriggeringPolicy size="100 MB" />
     </RollingFile>
   </appenders>
-
+ 
   <loggers>
     <root level="debug">
       <appender-ref ref="Console" />
