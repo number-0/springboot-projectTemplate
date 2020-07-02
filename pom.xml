@@ -214,7 +214,7 @@
           <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.41</version>
+            <version>8.0.16</version>
           </dependency>
           <!-- 第三方依赖，支持批量插入等功能 -->
           <dependency>
